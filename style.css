@@ -1,12 +1,9 @@
 .container {
-    background-color: #948d8d;
+    background-color: #da7474;
     border: 3px solid rgb(0, 0, 0);
     width: 70%;
     text-align: center;
     margin: 0px auto;
     padding: 10px;
-    border-radius: 5%;
-}
-.body {
-  background-color: lightblue;
+    border-radius: 3%;
 }
